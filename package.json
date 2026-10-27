@@ -1,0 +1,14 @@
+{
+  "name": "expo-tree-shaking-bare-import-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "repro": "./repro.sh"
+  },
+  "dependencies": {
+    "expo": "~58.0.20",
+    "react": "19.3.0",
+    "react-native": "0.88.0"
+  }
+}
